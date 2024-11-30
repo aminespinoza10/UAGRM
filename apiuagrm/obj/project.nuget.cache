@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "uDmraVHVYYE=",
+  "dgSpecHash": "UaAbYmzoNjk=",
   "success": true,
   "projectFilePath": "/mnt/c/Users/amine/Documents/Github/UAGRM/apiuagrm/apiuagrm.csproj",
   "expectedPackageFiles": [
     "/home/aminespinoza/.nuget/packages/microsoft.aspnetcore.openapi/8.0.10/microsoft.aspnetcore.openapi.8.0.10.nupkg.sha512",
     "/home/aminespinoza/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/home/aminespinoza/.nuget/packages/microsoft.openapi/1.6.14/microsoft.openapi.1.6.14.nupkg.sha512",
+    "/home/aminespinoza/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/home/aminespinoza/.nuget/packages/swashbuckle.aspnetcore/6.6.2/swashbuckle.aspnetcore.6.6.2.nupkg.sha512",
     "/home/aminespinoza/.nuget/packages/swashbuckle.aspnetcore.swagger/6.6.2/swashbuckle.aspnetcore.swagger.6.6.2.nupkg.sha512",
     "/home/aminespinoza/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.6.2/swashbuckle.aspnetcore.swaggergen.6.6.2.nupkg.sha512",
